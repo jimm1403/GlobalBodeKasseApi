@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "GlobalBodeKasse.Core/1.0.0": {
+        "dependencies": {
+          "GlobalBodeKasse.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "GlobalBodeKasse.Core.dll": {}
+        }
+      },
+      "GlobalBodeKasse.Core.Entity/1.0.0": {
+        "runtime": {
+          "GlobalBodeKasse.Core.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GlobalBodeKasse.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GlobalBodeKasse.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
