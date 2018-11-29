@@ -9,7 +9,7 @@ namespace GlobalBodeKasse.Infrastructure.Data
     {
         public static void SeedGlobalDb(GlobalDbContext context)
         {
-            context.Database.EnsureDeleted(); // only in devMODE ! ! ! 
+            //context.Database.EnsureDeleted(); // only in devMODE ! ! ! 
             context.Database.EnsureCreated();
 
             #region GroupSpaces

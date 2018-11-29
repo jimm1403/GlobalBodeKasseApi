@@ -33,11 +33,11 @@ namespace GlobalBodeKasseApi
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
-            //ervices.AddEntityFrameworkSqlServer().AddDbContext<GlobalDbContext>(o => o.UseSqlServer(Configuration.GetConnectionString("GlobalConnection")));
+            services.AddEntityFrameworkSqlServer().AddDbContext<GlobalDbContext>(o => o.UseSqlServer(Configuration.GetConnectionString("GlobalConnection")));
 
             //services.AddDbContext<GlobalDbContext>(o => o.UseSqlServer(Configuration.GetConnectionString("GlobalConnection")));
 
-            services.AddEntityFrameworkSqlite().AddDbContext<GlobalDbContext>(options => options.UseSqlite("Data Source=GlobalBodeKasse.db"));
+            //services.AddEntityFrameworkSqlite().AddDbContext<GlobalDbContext>(options => options.UseSqlite("Data Source=GlobalBodeKasse.db"));
 
             services.AddScoped<IGroupSpaceRepository, GroupSpaceRepository>();
             services.AddScoped<IGroupSpaceService, GroupSpaceService>();
