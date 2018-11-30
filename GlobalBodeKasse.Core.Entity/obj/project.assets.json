@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jimmi\\Desktop\\Hovedopgave\\GlobalBodeKasseApi\\GlobalBodeKasse.Core.Entity\\GlobalBodeKasse.Core.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\jimmi\\Desktop\\hovedopgave\\GlobalBodeKasseAPI\\GlobalBodeKasseApi\\GlobalBodeKasse.Core.Entity\\GlobalBodeKasse.Core.Entity.csproj",
       "projectName": "GlobalBodeKasse.Core.Entity",
-      "projectPath": "C:\\Users\\jimmi\\Desktop\\Hovedopgave\\GlobalBodeKasseApi\\GlobalBodeKasse.Core.Entity\\GlobalBodeKasse.Core.Entity.csproj",
+      "projectPath": "C:\\Users\\jimmi\\Desktop\\hovedopgave\\GlobalBodeKasseAPI\\GlobalBodeKasseApi\\GlobalBodeKasse.Core.Entity\\GlobalBodeKasse.Core.Entity.csproj",
       "packagesPath": "C:\\Users\\jimmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jimmi\\Desktop\\Hovedopgave\\GlobalBodeKasseApi\\GlobalBodeKasse.Core.Entity\\obj\\",
+      "outputPath": "C:\\Users\\jimmi\\Desktop\\hovedopgave\\GlobalBodeKasseAPI\\GlobalBodeKasseApi\\GlobalBodeKasse.Core.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

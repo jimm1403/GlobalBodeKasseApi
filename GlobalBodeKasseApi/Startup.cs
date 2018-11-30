@@ -33,7 +33,18 @@ namespace GlobalBodeKasseApi
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
-            services.AddEntityFrameworkSqlServer().AddDbContext<GlobalDbContext>(o => o.UseSqlServer(Configuration.GetConnectionString("GlobalConnection")));
+            if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "Production")
+            {
+                services.AddDbContext<GlobalDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("GlobalConnection")));
+            }
+            else
+            {
+                services.AddDbContext<GlobalDbContext>(options => options.UseSqlite("Data Source=GlobalBodeKasse.db"));
+            }
+
+            services.BuildServiceProvider().GetService<GlobalDbContext>().Database.Migrate();
+
+            //services.AddEntityFrameworkSqlServer().AddDbContext<GlobalDbContext>(o => o.UseSqlServer(Configuration.GetConnectionString("GlobalConnection")));
 
             //services.AddDbContext<GlobalDbContext>(o => o.UseSqlServer(Configuration.GetConnectionString("GlobalConnection")));
 

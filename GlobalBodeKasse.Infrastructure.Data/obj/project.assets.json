@@ -3305,11 +3305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jimmi\\Desktop\\Hovedopgave\\GlobalBodeKasseApi\\GlobalBodeKasse.Infrastructure.Data\\GlobalBodeKasse.Infrastructure.Data.csproj",
+      "projectUniqueName": "C:\\Users\\jimmi\\Desktop\\hovedopgave\\GlobalBodeKasseAPI\\GlobalBodeKasseApi\\GlobalBodeKasse.Infrastructure.Data\\GlobalBodeKasse.Infrastructure.Data.csproj",
       "projectName": "GlobalBodeKasse.Infrastructure.Data",
-      "projectPath": "C:\\Users\\jimmi\\Desktop\\Hovedopgave\\GlobalBodeKasseApi\\GlobalBodeKasse.Infrastructure.Data\\GlobalBodeKasse.Infrastructure.Data.csproj",
+      "projectPath": "C:\\Users\\jimmi\\Desktop\\hovedopgave\\GlobalBodeKasseAPI\\GlobalBodeKasseApi\\GlobalBodeKasse.Infrastructure.Data\\GlobalBodeKasse.Infrastructure.Data.csproj",
       "packagesPath": "C:\\Users\\jimmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jimmi\\Desktop\\Hovedopgave\\GlobalBodeKasseApi\\GlobalBodeKasse.Infrastructure.Data\\obj\\",
+      "outputPath": "C:\\Users\\jimmi\\Desktop\\hovedopgave\\GlobalBodeKasseAPI\\GlobalBodeKasseApi\\GlobalBodeKasse.Infrastructure.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3328,11 +3328,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\jimmi\\Desktop\\Hovedopgave\\GlobalBodeKasseApi\\GlobalBodeKasse.Core.Entity\\GlobalBodeKasse.Core.Entity.csproj": {
-              "projectPath": "C:\\Users\\jimmi\\Desktop\\Hovedopgave\\GlobalBodeKasseApi\\GlobalBodeKasse.Core.Entity\\GlobalBodeKasse.Core.Entity.csproj"
+            "C:\\Users\\jimmi\\Desktop\\hovedopgave\\GlobalBodeKasseAPI\\GlobalBodeKasseApi\\GlobalBodeKasse.Core.Entity\\GlobalBodeKasse.Core.Entity.csproj": {
+              "projectPath": "C:\\Users\\jimmi\\Desktop\\hovedopgave\\GlobalBodeKasseAPI\\GlobalBodeKasseApi\\GlobalBodeKasse.Core.Entity\\GlobalBodeKasse.Core.Entity.csproj"
             },
-            "C:\\Users\\jimmi\\Desktop\\Hovedopgave\\GlobalBodeKasseApi\\GlobalBodeKasse.Core\\GlobalBodeKasse.Core.csproj": {
-              "projectPath": "C:\\Users\\jimmi\\Desktop\\Hovedopgave\\GlobalBodeKasseApi\\GlobalBodeKasse.Core\\GlobalBodeKasse.Core.csproj"
+            "C:\\Users\\jimmi\\Desktop\\hovedopgave\\GlobalBodeKasseAPI\\GlobalBodeKasseApi\\GlobalBodeKasse.Core\\GlobalBodeKasse.Core.csproj": {
+              "projectPath": "C:\\Users\\jimmi\\Desktop\\hovedopgave\\GlobalBodeKasseAPI\\GlobalBodeKasseApi\\GlobalBodeKasse.Core\\GlobalBodeKasse.Core.csproj"
             }
           }
         }
