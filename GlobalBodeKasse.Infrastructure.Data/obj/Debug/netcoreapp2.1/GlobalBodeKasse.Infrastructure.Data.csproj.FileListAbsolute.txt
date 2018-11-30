@@ -26,3 +26,17 @@ C:\Users\jimmi\Desktop\Hovedopgave\GlobalBodeKasseApi\GlobalBodeKasse.Infrastruc
 C:\Users\jimmi\Desktop\Hovedopgave\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\obj\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.csproj.CopyComplete
 C:\Users\jimmi\Desktop\Hovedopgave\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\obj\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.dll
 C:\Users\jimmi\Desktop\Hovedopgave\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\obj\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.pdb
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\bin\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.deps.json
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\bin\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.dll
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\bin\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.pdb
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\bin\Debug\netcoreapp2.1\GlobalBodeKasse.Core.dll
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\bin\Debug\netcoreapp2.1\GlobalBodeKasse.Core.Entity.dll
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\bin\Debug\netcoreapp2.1\GlobalBodeKasse.Core.Entity.pdb
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\bin\Debug\netcoreapp2.1\GlobalBodeKasse.Core.pdb
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\obj\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\obj\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\obj\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\obj\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\obj\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.csproj.CopyComplete
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\obj\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.dll
+C:\Users\jimmi\Desktop\hovedopgave\GlobalBodeKasseAPI\GlobalBodeKasseApi\GlobalBodeKasse.Infrastructure.Data\obj\Debug\netcoreapp2.1\GlobalBodeKasse.Infrastructure.Data.pdb
